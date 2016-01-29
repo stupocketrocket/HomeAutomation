@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Users>
+	<User>
+		<userName>Deb</userName>
+		<userId>00-01-02-03-04-05</userId>
+		<playList>Debs Tunez</playList>
+	</User>
+	<User>
+		<userName>Stu</userName>
+		<userId>01-02-03-04-05-06</userId>
+		<playList>Stus Tunez</playList>
+	</User>
+	<User>
+		<userName>Charlotte</userName>
+		<userId>02-03-04-05-06-07</userId>
+		<playList>Charlottes Tunez</playList>
+	</User>
+	<User>
+		<userName>Jack</userName>
+		<userId>03-04-05-06-07-08</userId>
+		<playList>Jacks Tunez</playList>
+	</User>
+</Users>

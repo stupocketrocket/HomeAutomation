@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Zones>
+	<Zone>
+		<beaconId>1</beaconId>
+		<jRiverZoneName>AirPlay</jRiverZoneName>
+	</Zone>
+	<Zone>
+		<beaconId>2</beaconId>
+		<jRiverZoneName>Lounge</jRiverZoneName>
+	</Zone>
+	<Zone>
+		<beaconId>3</beaconId>
+		<jRiverZoneName>Kitchen</jRiverZoneName>
+	</Zone>
+	<Zone>
+		<beaconId>4</beaconId>
+		<jRiverZoneName>Hallway</jRiverZoneName>
+	</Zone>
+</Zones>

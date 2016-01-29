@@ -1,0 +1,44 @@
+﻿Things to do
+
+Multi-room
+
+1. Keep track of the room that a beacon is assigned to. First come first served.
+2. If beacon is attached to a room then broadcast message to see if playlist should be overridden.
+3. If can be overridden call web method. Set current beacon / room mapping.
+4. Add settings to XML to allow playback configuration.
+5. Get USB sound card. Test multiple zone / person works oK.
+6. Install speakers in ceiling and wire through.
+7. More amps, power supply, USB hub
+
+Door bell
+
+1. Add web method that can be called when door bell is detected.
+2. When called web method should broadcast a message to indicate presence at the door.
+3. On phone app receive message and alert user.
+4. Pause / suspend playlist and play door bell playlist. When finished go back to where it left off.
+5. Sort out ESP-02 code, PIR and distance detector. Do code and test. Add ability to call web service on server.
+6. Add web server to ESP to allow configuration remotely.
+
+Lighting
+
+1. Test sending to multiple devices.
+2. Device auto discovery, broadcast and receive with IP addresses.
+3. Add dusk til dawn dll and use it to turn lights on and off.
+4. Implement .xml file for settings. 
+	Settings may be as follows
+	1. Use dusk til dawn
+	2. specify on / off times
+	3. Use auto away from Nest
+	4. Use dusk til dawn plus offset
+	5. Set default colour, mode etc
+	6. Support for programs to allow for when away on holiday.
+5. Support for Nest auto-away functionality.
+6. Investigate LAN relay board to allow switching on / off of new lights around the house.
+7. Add web front end for turning LEDs on and off etc via WebService.
+
+
+
+Other things
+
+1. Neo-pixel ring
+

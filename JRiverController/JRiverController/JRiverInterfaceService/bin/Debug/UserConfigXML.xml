@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Users>
+	<User>
+		<userName>Stu</userName>
+		<userId>10:68:3f:84:75:cb</userId>
+		<playList>StuTest</playList>
+	</User>
+	<User>
+		<userName>Deb</userName>
+		<userId>34:23:BA:D7:84:94</userId>
+		<playList>DebTest</playList>
+	</User>
+	<User>
+		<userName>Charlotte</userName>
+		<userId>02-03-04-05-06-07</userId>
+		<playList>Charlottes Tunez</playList>
+	</User>
+	<User>
+		<userName>Jack</userName>
+		<userId>03-04-05-06-07-08</userId>
+		<playList>Jacks Tunez</playList>
+	</User>
+</Users>

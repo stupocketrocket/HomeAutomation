@@ -1,0 +1,5 @@
+E:\SubVersion\JRiverController\JRiverControllerService\bin\JRiverControllerService.dll
+E:\SubVersion\JRiverController\JRiverControllerService\bin\JRiverControllerService.pdb
+E:\SubVersion\JRiverController\JRiverControllerService\obj\Debug\JRiverControllerService.dll
+E:\SubVersion\JRiverController\JRiverControllerService\obj\Debug\JRiverControllerService.pdb
+E:\SubVersion\JRiverController\JRiverControllerService\obj\Debug\JRiverControllerService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="http://localhost:8000/Service/SetZone" method="get">
+  Beacon ID:<br>
+  <input type="text" name="BeaconId" value="1">
+  <br>
+  User ID:<br>
+  <input type="text" name="UserId" value="00-00-00-00-00">
+  <br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to the WCF service.</p>
+
+<p>Lighting Commands</p>
+
+<form action="http://localhost:8000/Service/TurnLightOn" method="get">
+  <input type="submit" value="Turn Light On">
+</form> 
+
+<br>
+
+<form action="http://localhost:8000/Service/TurnLightOff" method="get">
+  <input type="submit" value="Turn Light Off">
+</form>
+
+<br>
+
+<form action="http://localhost:8000/Service/SetRGBStaticColor" method="get">
+  Set RGB Static Colour
+  <br><br>
+  Red:<br>
+  <input type="text" name="Red" value="255">
+  <br>
+  Green:<br>
+  <input type="text" name="Green" value="255">
+  <br>
+  Blue:<br>
+  <input type="text" name="Blue" value="255">
+  <br><br>
+  <input type="submit" value="Set RGB Static Colour">
+</form> 
+
+<br>
+
+<form action="http://localhost:8000/Service/SetBuiltInDisplayMode" method="get">
+  Set Built In Display Mode
+  <br><br>
+  Speed:<br>
+  <input type="text" name="Speed" value="3">
+  <br>
+  Pause:<br>
+  <input type="text" name="Pause" value="0">
+  <br>
+  Program:<br>
+  <input type="text" name="Program" value="1">
+  <br>
+  Effect:<br>
+  <input type="text" name="Effect" value="5">
+  <br><br>
+  <input type="submit" value="Set Built In Display Mode">
+</form> 
+
+
+
+
+</body>
+</html>

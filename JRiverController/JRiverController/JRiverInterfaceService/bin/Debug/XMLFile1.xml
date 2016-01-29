@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Response Status="OK">
+  <Item>
+    <Field Name="ID">344810084</Field>
+    <Field Name="Name">Car Radio</Field>
+    <Field Name="Path">Car Radio</Field>
+    <Field Name="Type">Group</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">1361956</Field>
+    <Field Name="Name">Imported Playlists</Field>
+    <Field Name="Path">Imported Playlists</Field>
+    <Field Name="Type">Group</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">207579013</Field>
+    <Field Name="Name">BedTimeList</Field>
+    <Field Name="Path">Imported Playlists\BedTimeList</Field>
+    <Field Name="Type">Playlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">724671465</Field>
+    <Field Name="Name">Recent Playing Now's</Field>
+    <Field Name="Path">Recent Playing Now's</Field>
+    <Field Name="Type">Group</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">844467801</Field>
+    <Field Name="Name">11/09/2015 20:43</Field>
+    <Field Name="Path">Recent Playing Now's\11/09/2015 20:43</Field>
+    <Field Name="Type">Playlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">718209622</Field>
+    <Field Name="Name">11/09/2015 20:51</Field>
+    <Field Name="Path">Recent Playing Now's\11/09/2015 20:51</Field>
+    <Field Name="Type">Playlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">301848648</Field>
+    <Field Name="Name">12/09/2015 11:56</Field>
+    <Field Name="Path">Recent Playing Now's\12/09/2015 11:56</Field>
+    <Field Name="Type">Playlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">458825994</Field>
+    <Field Name="Name">12/09/2015 12:12</Field>
+    <Field Name="Path">Recent Playing Now's\12/09/2015 12:12</Field>
+    <Field Name="Type">Playlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">222027879</Field>
+    <Field Name="Name">12/09/2015 14:34</Field>
+    <Field Name="Path">Recent Playing Now's\12/09/2015 14:34</Field>
+    <Field Name="Type">Playlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">780545051</Field>
+    <Field Name="Name">15/09/2015 01:00</Field>
+    <Field Name="Path">Recent Playing Now's\15/09/2015 01:00</Field>
+    <Field Name="Type">Playlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">196822735</Field>
+    <Field Name="Name">15/09/2015 21:22</Field>
+    <Field Name="Path">Recent Playing Now's\15/09/2015 21:22</Field>
+    <Field Name="Type">Playlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">218856951</Field>
+    <Field Name="Name">15/09/2015 21:24</Field>
+    <Field Name="Path">Recent Playing Now's\15/09/2015 21:24</Field>
+    <Field Name="Type">Playlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">217427565</Field>
+    <Field Name="Name">15/09/2015 21:24 (1)</Field>
+    <Field Name="Path">Recent Playing Now's\15/09/2015 21:24 (1)</Field>
+    <Field Name="Type">Playlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">280461460</Field>
+    <Field Name="Name">15/09/2015 21:27</Field>
+    <Field Name="Path">Recent Playing Now's\15/09/2015 21:27</Field>
+    <Field Name="Type">Playlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">172737942</Field>
+    <Field Name="Name">Smartlists</Field>
+    <Field Name="Path">Smartlists</Field>
+    <Field Name="Type">Group</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">948947411</Field>
+    <Field Name="Name">4 or 5 Stars</Field>
+    <Field Name="Path">Smartlists\4 or 5 Stars</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">83312044</Field>
+    <Field Name="Name">All Files (empty search)</Field>
+    <Field Name="Path">Smartlists\All Files (empty search)</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">109261861</Field>
+    <Field Name="Name">Audio -- 100 Random Songs</Field>
+    <Field Name="Path">Smartlists\Audio -- 100 Random Songs</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">619321527</Field>
+    <Field Name="Name">Audio -- All</Field>
+    <Field Name="Path">Smartlists\Audio -- All</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">109746676</Field>
+    <Field Name="Name">Audio -- Bitrate -- High bitrate tracks</Field>
+    <Field Name="Path">Smartlists\Audio -- Bitrate -- High bitrate tracks</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">316213075</Field>
+    <Field Name="Name">Audio -- Bitrate -- Low bitrate tracks</Field>
+    <Field Name="Path">Smartlists\Audio -- Bitrate -- Low bitrate tracks</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">620907692</Field>
+    <Field Name="Name">Audio -- Duration -- Tracks longer than ten minutes</Field>
+    <Field Name="Path">Smartlists\Audio -- Duration -- Tracks longer than ten minutes</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">51734095</Field>
+    <Field Name="Name">Audio -- Duration -- Tracks shorter than one minute</Field>
+    <Field Name="Path">Smartlists\Audio -- Duration -- Tracks shorter than one minute</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">907821784</Field>
+    <Field Name="Name">Audio -- Favorites -- All Favorites (4 and 5 rated)</Field>
+    <Field Name="Path">Smartlists\Audio -- Favorites -- All Favorites (4 and 5 rated)</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">294657258</Field>
+    <Field Name="Name">Audio -- Favorites -- Have not heard recently</Field>
+    <Field Name="Path">Smartlists\Audio -- Favorites -- Have not heard recently</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">587796246</Field>
+    <Field Name="Name">Audio -- Favorites -- Listened to today</Field>
+    <Field Name="Path">Smartlists\Audio -- Favorites -- Listened to today</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">270114832</Field>
+    <Field Name="Name">Audio -- Favorites -- One audio CD worth</Field>
+    <Field Name="Path">Smartlists\Audio -- Favorites -- One audio CD worth</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">205668052</Field>
+    <Field Name="Name">Audio -- Favorites -- One data CD worth</Field>
+    <Field Name="Path">Smartlists\Audio -- Favorites -- One data CD worth</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">620434960</Field>
+    <Field Name="Name">Audio -- Missing Cover Art</Field>
+    <Field Name="Path">Smartlists\Audio -- Missing Cover Art</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">734639907</Field>
+    <Field Name="Name">Audio -- Not Recently Played</Field>
+    <Field Name="Path">Smartlists\Audio -- Not Recently Played</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">537647193</Field>
+    <Field Name="Name">Audio -- Random -- One audio CD worth</Field>
+    <Field Name="Path">Smartlists\Audio -- Random -- One audio CD worth</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">102867964</Field>
+    <Field Name="Name">Audio -- Random -- One data CD worth</Field>
+    <Field Name="Path">Smartlists\Audio -- Random -- One data CD worth</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">908938528</Field>
+    <Field Name="Name">Audio -- Random -- One hour</Field>
+    <Field Name="Path">Smartlists\Audio -- Random -- One hour</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">701993023</Field>
+    <Field Name="Name">Audio -- Recently Imported -- Imported this week</Field>
+    <Field Name="Path">Smartlists\Audio -- Recently Imported -- Imported this week</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">631480669</Field>
+    <Field Name="Name">Audio -- Recently Imported -- Imported today</Field>
+    <Field Name="Path">Smartlists\Audio -- Recently Imported -- Imported today</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">64072555</Field>
+    <Field Name="Name">Audio -- Recently Imported -- Last 100 tracks</Field>
+    <Field Name="Path">Smartlists\Audio -- Recently Imported -- Last 100 tracks</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">623297166</Field>
+    <Field Name="Name">Audio -- Task -- Empty properties</Field>
+    <Field Name="Path">Smartlists\Audio -- Task -- Empty properties</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">671365168</Field>
+    <Field Name="Name">Audio -- Task -- Incomplete albums</Field>
+    <Field Name="Path">Smartlists\Audio -- Task -- Incomplete albums</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">118665845</Field>
+    <Field Name="Name">Audio -- Task -- Needs audio analysis</Field>
+    <Field Name="Path">Smartlists\Audio -- Task -- Needs audio analysis</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">284683810</Field>
+    <Field Name="Name">Audio -- Task -- No images</Field>
+    <Field Name="Path">Smartlists\Audio -- Task -- No images</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">102443182</Field>
+    <Field Name="Name">Audio -- Task -- Not rated</Field>
+    <Field Name="Path">Smartlists\Audio -- Task -- Not rated</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">552338427</Field>
+    <Field Name="Name">Audio -- Task -- Possible duplicates</Field>
+    <Field Name="Path">Smartlists\Audio -- Task -- Possible duplicates</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">328158011</Field>
+    <Field Name="Name">Audio -- Top Hits -- 100 most played</Field>
+    <Field Name="Path">Smartlists\Audio -- Top Hits -- 100 most played</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">501632873</Field>
+    <Field Name="Name">Audio -- Top Hits -- Haven't heard for over a year</Field>
+    <Field Name="Path">Smartlists\Audio -- Top Hits -- Haven't heard for over a year</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">485538011</Field>
+    <Field Name="Name">Audio -- Top Hits -- Listened to today</Field>
+    <Field Name="Path">Smartlists\Audio -- Top Hits -- Listened to today</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">442613347</Field>
+    <Field Name="Name">Handheld -- 2GB Audio (shuffled)</Field>
+    <Field Name="Path">Smartlists\Handheld -- 2GB Audio (shuffled)</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">196241668</Field>
+    <Field Name="Name">Handheld -- 5GB Video (shuffled)</Field>
+    <Field Name="Path">Smartlists\Handheld -- 5GB Video (shuffled)</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">416525815</Field>
+    <Field Name="Name">Handheld -- 200 Most recent photos</Field>
+    <Field Name="Path">Smartlists\Handheld -- 200 Most recent photos</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">166184488</Field>
+    <Field Name="Name">Handheld -- 500 Photos (shuffled)</Field>
+    <Field Name="Path">Smartlists\Handheld -- 500 Photos (shuffled)</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">64638261</Field>
+    <Field Name="Name">Handheld -- Fill with audio (shuffled)</Field>
+    <Field Name="Path">Smartlists\Handheld -- Fill with audio (shuffled)</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">408573515</Field>
+    <Field Name="Name">Image &amp; Video -- All</Field>
+    <Field Name="Path">Smartlists\Image &amp; Video -- All</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">818087640</Field>
+    <Field Name="Name">Image &amp; Video -- Imported this week</Field>
+    <Field Name="Path">Smartlists\Image &amp; Video -- Imported this week</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">430975362</Field>
+    <Field Name="Name">Image &amp; Video -- Large display size</Field>
+    <Field Name="Path">Smartlists\Image &amp; Video -- Large display size</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">604483735</Field>
+    <Field Name="Name">Image &amp; Video -- Small display size</Field>
+    <Field Name="Path">Smartlists\Image &amp; Video -- Small display size</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">516144049</Field>
+    <Field Name="Name">Image &amp; Video -- Taken in the last 3 months</Field>
+    <Field Name="Path">Smartlists\Image &amp; Video -- Taken in the last 3 months</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">632997826</Field>
+    <Field Name="Name">Images &amp; Video -- Watched Videos</Field>
+    <Field Name="Path">Smartlists\Images &amp; Video -- Watched Videos</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">479540014</Field>
+    <Field Name="Name">Imported This Month</Field>
+    <Field Name="Path">Smartlists\Imported This Month</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">565051222</Field>
+    <Field Name="Name">Podcasts -- Audio Podcasts (sorted by Date)</Field>
+    <Field Name="Path">Smartlists\Podcasts -- Audio Podcasts (sorted by Date)</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">347067585</Field>
+    <Field Name="Name">Podcasts -- Audio Podcasts (sorted by Feed)</Field>
+    <Field Name="Path">Smartlists\Podcasts -- Audio Podcasts (sorted by Feed)</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">1055615405</Field>
+    <Field Name="Name">Podcasts -- Photo Podcasts</Field>
+    <Field Name="Path">Smartlists\Podcasts -- Photo Podcasts</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">530157487</Field>
+    <Field Name="Name">Podcasts -- Podcasts by Date</Field>
+    <Field Name="Path">Smartlists\Podcasts -- Podcasts by Date</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">1024940062</Field>
+    <Field Name="Name">Podcasts -- Video Podcasts</Field>
+    <Field Name="Path">Smartlists\Podcasts -- Video Podcasts</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">-1003</Field>
+    <Field Name="Name">Recently Imported</Field>
+    <Field Name="Path">Recently Imported</Field>
+    <Field Name="Type">Playlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">-1002</Field>
+    <Field Name="Name">Recently Played</Field>
+    <Field Name="Path">Recently Played</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">-1001</Field>
+    <Field Name="Name">Top Hits</Field>
+    <Field Name="Path">Top Hits</Field>
+    <Field Name="Type">Smartlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">743625363</Field>
+    <Field Name="Name">Debs Tunez</Field>
+    <Field Name="Path">Debs Tunez</Field>
+    <Field Name="Type">Playlist</Field>
+  </Item>
+  <Item>
+    <Field Name="ID">871897781</Field>
+    <Field Name="Name">Test</Field>
+    <Field Name="Path">Test</Field>
+    <Field Name="Type">Playlist</Field>
+  </Item>
+</Response>
+

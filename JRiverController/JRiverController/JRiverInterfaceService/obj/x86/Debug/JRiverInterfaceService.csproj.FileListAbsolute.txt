@@ -1,0 +1,6 @@
+E:\SubVersion\JRiverController\JRiverController\JRiverInterfaceService\bin\Debug\JRiverInterfaceService.exe.config
+E:\SubVersion\JRiverController\JRiverController\JRiverInterfaceService\bin\Debug\JRiverInterfaceService.exe
+E:\SubVersion\JRiverController\JRiverController\JRiverInterfaceService\bin\Debug\JRiverInterfaceService.pdb
+E:\SubVersion\JRiverController\JRiverController\JRiverInterfaceService\obj\x86\Debug\JRiverInterfaceService.exe
+E:\SubVersion\JRiverController\JRiverController\JRiverInterfaceService\obj\x86\Debug\JRiverInterfaceService.pdb
+E:\SubVersion\JRiverController\JRiverController\JRiverInterfaceService\obj\x86\Debug\JRiverInterfaceService.csprojResolveAssemblyReference.cache

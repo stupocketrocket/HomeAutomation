@@ -1,0 +1,8 @@
+E:\SubVersion\JRiverController\JRiverController\bin\Debug\JRiverController.exe
+E:\SubVersion\JRiverController\JRiverController\bin\Debug\JRiverController.pdb
+E:\SubVersion\JRiverController\JRiverController\obj\x86\Debug\JRiverController.Form1.resources
+E:\SubVersion\JRiverController\JRiverController\obj\x86\Debug\JRiverController.Properties.Resources.resources
+E:\SubVersion\JRiverController\JRiverController\obj\x86\Debug\JRiverController.csproj.GenerateResource.Cache
+E:\SubVersion\JRiverController\JRiverController\obj\x86\Debug\JRiverController.exe
+E:\SubVersion\JRiverController\JRiverController\obj\x86\Debug\JRiverController.pdb
+E:\SubVersion\JRiverController\JRiverController\obj\x86\Debug\JRiverController.csprojResolveAssemblyReference.cache
